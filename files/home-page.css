@@ -1,0 +1,25 @@
+
+.intro {
+    line-height: 24px;
+}
+
+#features {
+    text-align: center;
+}
+
+.pic-theme {
+    height: 70px;
+    margin: 20px auto 0px;
+    width: 92px;
+}
+body {
+    padding-top: 80px; 
+}
+img[src*="gstatic.com/"], img[src*="googleapis.com/"]  {
+    max-width: 99999px;
+}
+#mapDiv {
+    width: 800px; 
+    height: 500px; 
+    border: 2px solid gray; 
+}
