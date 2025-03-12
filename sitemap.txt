@@ -1,8 +1,0 @@
-http://www.mmbarques.com/fr/index
-http://www.mmbarques.com/fr/coordonnees
-http://www.mmbarques.com/fr/commander
-http://www.mmbarques.com/fr/caracteristiques
-http://www.mmbarques.com/en/index
-http://www.mmbarques.com/en/contact
-http://www.mmbarques.com/en/place-order
-http://www.mmbarques.com/en/specifications
